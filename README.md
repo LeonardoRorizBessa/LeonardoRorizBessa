@@ -3,9 +3,9 @@
 **Desenvolvedor Front End** na **704 Apps** e estudante de **Análise e Desenvolvimento de Sistemas** na Estácio.  
 Atualmente, estou aprofundando meus conhecimentos em desenvolvimento Full Stack na **Digital College**.  
 Minhas principais tecnologias incluem **React, React Native, Typescript, JavaScript e Tailwind**.
-<div> 
+<div>
+  <a href="https://www.linkedin.com/in/leonardo-roriz-bessa-194356268/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/leonardororiz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leonardo-roriz-bessa-194356268/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ### Tecnologias
@@ -22,9 +22,9 @@ Minhas principais tecnologias incluem **React, React Native, Typescript, JavaScr
 </div>
 
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardororizbessa&layout=compact&langs_count=7&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardororizbessa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardororizbessa&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardororizbessa&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div>
