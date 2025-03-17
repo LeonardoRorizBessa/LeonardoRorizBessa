@@ -1,5 +1,4 @@
 ## Olá, eu sou Leonardo Bessa
-##
 
 **Desenvolvedor Front End** na **704 Apps** e estudante de **Análise e Desenvolvimento de Sistemas** na Estácio.  
 Atualmente, estou aprofundando meus conhecimentos em desenvolvimento Full Stack na **Digital College**.  
@@ -16,26 +15,15 @@ Minhas principais tecnologias incluem **React, React Native, Typescript, JavaScr
      <img align="center" alt="Leo-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
      <img align="center" alt="Leo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-
 ##
-
 <div> 
   <a href="https://www.instagram.com/leonardororiz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leonardo-roriz-bessa-194356268/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-
 ## 📊 GitHub Stats
 
 <div align="center">
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardororizbessa&layout=compact&langs_count=7&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardororizbessa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardororizbessa&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
----
-
-### 🚀 GitHub Summary
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leonardororizbessa&theme=dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leonardororizbessa&theme=dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leonardororizbessa&theme=dark" />
