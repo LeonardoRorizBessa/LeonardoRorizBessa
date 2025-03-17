@@ -8,9 +8,7 @@ Minhas principais tecnologias incluem **React, React Native, Typescript, JavaScr
   <a href="https://www.linkedin.com/in/leonardo-roriz-bessa-194356268/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-##
-
-## Tecnologias
+# Tecnologias
 
 <div style="display: inline_block"><br>
      <img align="center" alt="Leo-ReactNative" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg">
