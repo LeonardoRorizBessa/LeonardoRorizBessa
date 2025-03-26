@@ -1,4 +1,4 @@
-## Olá, eu sou Leonardo Bessa
+# Olá, eu sou Leonardo Bessa
 
 **Desenvolvedor Front End** na **704 Apps** e estudante de **Análise e Desenvolvimento de Sistemas** na Estácio.  
 Atualmente, estou aprofundando meus conhecimentos em desenvolvimento Full Stack na **Digital College**.  
