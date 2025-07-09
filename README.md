@@ -1,8 +1,10 @@
 # Olá, eu sou Leonardo Bessa
 
-**Desenvolvedor Front End** e estudante de **Análise e Desenvolvimento de Sistemas** na Estácio.  
-Atualmente, estou aprofundando meus conhecimentos em desenvolvimento Full Stack na **Digital College**.  
-Minhas principais tecnologias incluem **React, React Native, Typescript, JavaScript e Tailwind**.
+Desenvolvedor Front-End com foco em interfaces modernas, responsivas e de alta performance.
+Atualmente atuo como freelancer na área, curso Análise e Desenvolvimento de Sistemas na Estácio e aprofundo meus conhecimentos em desenvolvimento Full Stack pela Digital College.
+
+Trabalho com tecnologias como React.js, React Native, JavaScript, TypeScript e Tailwind CSS.
+Também possuo noções de Node.js, Express.js e integração com bancos de dados, o que amplia minha visão Full Stack. Também utilizo o Figma para criação e prototipagem de interfaces, garantindo alinhamento entre design e código nos projetos que desenvolvo.
 <div>
   <a href="https://www.linkedin.com/in/leonardo-roriz-bessa-194356268/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/leonardororiz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
